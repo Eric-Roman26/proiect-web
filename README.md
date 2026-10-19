@@ -5,9 +5,10 @@ Tema proiectului: (Site unde poti vedea meciuri de fotbal trecute, curente si vi
 ## Idei pentru proiect:
 
 -live service api
+
 -Player stat tracker
+
 -Game stat tracker(cards, goals, subs, etc)
--Clasamente(POINTS, WINS/LOSE)
 
 ## Mediu de lucru
 

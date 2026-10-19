@@ -1,8 +1,6 @@
-#Proiect Web - Eric Roman
+#Proiect Web - Eric Roman, Bogdan Sipos
 
 Tema proiectului: (Site unde poti vedea meciuri de fotbal trecute, curente si viitoare ex:flashscore.com)
-
-Grupa: Roman Eric, Sipos Bogdan
 
 ## Idei pentru proiect:
 
@@ -10,7 +8,7 @@ Grupa: Roman Eric, Sipos Bogdan
 -Player stat tracker
 -Game stat tracker(cards, goals, subs, etc)
 
-Mediu de lucru
+## Mediu de lucru
 
 git version 2.56.0.windows.2
 

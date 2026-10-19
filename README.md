@@ -6,7 +6,7 @@ Tema proiectului: (Site unde poti vedea meciuri de fotbal trecute, curente si vi
 
 -Live service API
 
--Player stat tracker
+-Player stat tracker(Goals, Assists, Injury, Rating)
 
 -Game stat tracker(cards, goals, subs, etc)
 
